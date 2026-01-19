@@ -28,10 +28,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=krekas&theme=dracula&show_icons=true" />
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=krekas&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
+  <!---<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=krekas&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />-->
 </div>
