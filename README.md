@@ -32,7 +32,13 @@
 
 ---
 
-<div align="center">
+### 📊 GitHub Stats
+
+<!---<div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=krekas&theme=dracula&show_icons=true" />
-  <!---<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=krekas&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />-->
-</div>
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=krekas&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
+</div>-->
+
+<p align="center">
+  <a href="https://github.com/krekas?tab=repositories&q=&type=&language=&sort=stargazers"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=krekas&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krekas&layout=compact&langs_count=8&theme=ayu-mirage&count_private=true"/></a>
+</p>
